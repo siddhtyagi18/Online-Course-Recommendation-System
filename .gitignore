@@ -1,7 +1,7 @@
-# Ignore compiled files
-*.class
+# compiled files
 bin/
+*.class
 
-# OS & IDE files
+# OS / editor
 .DS_Store
 .vscode/
